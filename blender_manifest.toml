@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "crease_segmenter"
+version = "0.3.3"
+name = "Crease Segmenter"
+tagline = "Split mesh regions along geometric creases"
+maintainer = "Cyrleen"
+type = "add-on"
+tags = ["Mesh"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
